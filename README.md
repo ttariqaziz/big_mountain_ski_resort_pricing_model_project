@@ -1,1 +1,1 @@
-# big_mountain_guided_capstone
+# big_mountain_guided_capstone_project
