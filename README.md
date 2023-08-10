@@ -8,6 +8,7 @@ This data science project's primary purpose is to develop a pricing model for Mo
 <img src = "https://github.com/ttariqaziz/big_mountain_ski_resort_project/blob/main/Plots/Features_heatmap.png">
 <img src = "https://github.com/ttariqaziz/big_mountain_ski_resort_project/blob/main/Plots/Random_forest_feature_importance.png">
 
+# Key Takeaways
 Based on the provided exploratory data analysis, here are the key points:
 
 1. Features in the Data:
